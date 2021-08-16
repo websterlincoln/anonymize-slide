@@ -1,7 +1,7 @@
 anonymize-slide
 ===============
 
-I made modifications for it to work with Python 3.
+I made modifications for this program to work with Python 3.
 
 This is a program to remove the slide label from whole-slide images in the
 following formats:
